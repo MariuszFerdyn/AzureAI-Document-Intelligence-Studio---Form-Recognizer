@@ -1,0 +1,1 @@
+# AzureAI-Document-Intelligence-Studio---Form-Recognizer
